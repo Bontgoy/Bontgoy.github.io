@@ -1,8 +1,0 @@
----
-layout: blog
-title:  "test.blog"
-date:   2014-08-13 22:50:21
-categories: blog
----
-
-[Dev Bootcamp](http://devbootcamp.com/)
