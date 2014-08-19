@@ -10,4 +10,4 @@ My education in building software applications began when I had some thoughts on
 
 I recently finished the [Dev Bootcamp](http://www.devbootcamp.com) program in Chicago and am seeking mentorship and employment to keep learning.  Along with my sales and production skills, I also have a BA in Policy Analysis from Montana State University.  I hope to prove myself as a unique and hard-working asset to anyone with the empathy to help me get wet behind the ears.  
 
-![tjk](/images/IMG_0506.jpg)
+![tjk](/images/cutboard.jpg)
