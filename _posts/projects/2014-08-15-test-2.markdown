@@ -1,8 +1,0 @@
----
-layout: projects
-title:  "Projects"
-date:   2014-08-15 14:39:21
-categories: projects
----
-
-Pizza

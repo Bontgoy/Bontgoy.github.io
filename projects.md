@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Pizza
-permalink: /pizza/
+title: Projects
+permalink: /projects/
 ---
 
 [Grouples](http://grouples.herokuapp.com/)

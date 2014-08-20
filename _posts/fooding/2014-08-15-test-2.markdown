@@ -1,0 +1,14 @@
+---
+layout: fooding
+title:  "Perfect Pico and Guac"
+date:   2014-08-15 14:39:21
+categories: fooding
+---
+
+<div class="food">Simple party food</div>
+![alt text](/images/tjk.jpg)
+
+\* 
+pizza
+shoes
+chicken

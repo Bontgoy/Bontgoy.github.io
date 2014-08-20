@@ -5,17 +5,27 @@
     <description>May we work to live and love what we do...</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 19 Aug 2014 14:03:53 -0500</pubDate>
-    <lastBuildDate>Tue, 19 Aug 2014 14:03:53 -0500</lastBuildDate>
+    <pubDate>Wed, 20 Aug 2014 15:35:48 -0500</pubDate>
+    <lastBuildDate>Wed, 20 Aug 2014 15:35:48 -0500</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
-        <title>a Void</title>
-        <description>&lt;p&gt;I just finished Chicago&#39;s intense 9 to 15 week software development bootcamp.  If you&#39;re reading this and wonder what I am referring too, it is call &lt;a href=&quot;http://devbootcamp.com/&quot;&gt;Dev Bootcamp&lt;/a&gt; and it is what it sounds like.&lt;/p&gt;
+        <title>An honest intro and outlook</title>
+        <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/my.css&quot; /&gt;
+
+&lt;p&gt;I might not a have a lot to say right away but I am trying.  When I thought about starting a blog, I was not fully prepared for the mental stamina it would take to create thought from scratch and put it to the page.  I tend be a veering individual when it comes using my spare time to focus.  However, these days, spare time is a different concept to me.  Writing conscious thought down on a site I created should be comforting.  &lt;/p&gt;
+
+&lt;p&gt;I&#39;m trying to develope a routine; a routine of learning and reflection.  I have always been a mover.  I have trouble sitting still.  I am desperate to focus and I think I can do it if I try.  This is my first serious post and I will be leaving it up.  I pledge to write something daily until this routine becomes a habit.  I am also going to get much better at engineering software.  Everyday I will be doing my best to become better at something.  &lt;/p&gt;
+
+&lt;p&gt;Today I&#39;ll working on a bit of &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; framework and will be revisiting some old exercises from &lt;a href=&quot;http://www.devbootcamp.com&quot;&gt;DBC&lt;/a&gt;. If I have time tonight, I will post again to reflect on what I have learned...&lt;/p&gt;
+
+&lt;p&gt;Everything does not have to be directly profound if it is honest.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://bontgoy.github.io/blog/&quot;&gt;Back&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Fri, 15 Aug 2014 11:41:21 -0500</pubDate>
-        <link>http://yourdomain.com/blog/maybe-thats-why</link>
-        <guid isPermaLink="true">http://yourdomain.com/blog/maybe-thats-why</guid>
+        <pubDate>Wed, 20 Aug 2014 09:46:52 -0500</pubDate>
+        <link>http://yourdomain.com/blog/hello-jekyll-world</link>
+        <guid isPermaLink="true">http://yourdomain.com/blog/hello-jekyll-world</guid>
         
         
         <category>blog</category>
@@ -23,41 +33,21 @@
       </item>
     
       <item>
-        <title>Projects</title>
-        <description>&lt;p&gt;Pizza&lt;/p&gt;
+        <title>Perfect Pico and Guac</title>
+        <description>&lt;div class=&quot;food&quot;&gt;Simple party food&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/images/tjk.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;* 
+pizza
+shoes
+chicken&lt;/p&gt;
 </description>
         <pubDate>Fri, 15 Aug 2014 09:39:21 -0500</pubDate>
-        <link>http://yourdomain.com/projects/test-2</link>
-        <guid isPermaLink="true">http://yourdomain.com/projects/test-2</guid>
+        <link>http://yourdomain.com/fooding/test-2</link>
+        <guid isPermaLink="true">http://yourdomain.com/fooding/test-2</guid>
         
         
-        <category>projects</category>
-        
-      </item>
-    
-      <item>
-        <title>Test Projects</title>
-        <description>&lt;p&gt;Projitty project&lt;/p&gt;
-</description>
-        <pubDate>Wed, 13 Aug 2014 17:52:21 -0500</pubDate>
-        <link>http://yourdomain.com/projects/test-projects</link>
-        <guid isPermaLink="true">http://yourdomain.com/projects/test-projects</guid>
-        
-        
-        <category>projects</category>
-        
-      </item>
-    
-      <item>
-        <title>test.blog</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://devbootcamp.com/&quot;&gt;Dev Bootcamp&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 13 Aug 2014 17:50:21 -0500</pubDate>
-        <link>http://yourdomain.com/blog/test-blog</link>
-        <guid isPermaLink="true">http://yourdomain.com/blog/test-blog</guid>
-        
-        
-        <category>blog</category>
+        <category>fooding</category>
         
       </item>
     
