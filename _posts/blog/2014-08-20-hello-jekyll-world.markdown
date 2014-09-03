@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title:  "An honest intro and outlook"
 date:   2014-08-20 14:46:52
 categories: blog

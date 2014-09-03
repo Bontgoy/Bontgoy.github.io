@@ -1,7 +1,9 @@
 body {
-	background-color: salmon;
+ background-color: salmon;
 }
 
-.pizza {
-	
+#cooking {
+	margin-left: auto;
+	margin-right: auto;
+	width: 6em;
 }

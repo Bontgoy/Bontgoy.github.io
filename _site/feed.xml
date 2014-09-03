@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ty Keating</title>
-    <description>May we work to live and love what we do...</description>
+    <description>ideas are dry leaves waiting for a creative spark</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 20 Aug 2014 15:59:42 -0500</pubDate>
-    <lastBuildDate>Wed, 20 Aug 2014 15:59:42 -0500</lastBuildDate>
+    <pubDate>Wed, 03 Sep 2014 04:17:50 -0500</pubDate>
+    <lastBuildDate>Wed, 03 Sep 2014 04:17:50 -0500</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
@@ -37,18 +37,66 @@
       </item>
     
       <item>
-        <title>Perfect Pico and Guac</title>
-        <description>&lt;div class=&quot;food&quot;&gt;Simple party food&lt;/div&gt;
-&lt;p&gt;&lt;img src=&quot;/images/tjk.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+        <title>Guacamole Guide</title>
+        <description>&lt;h1 id=&quot;guacamole&quot;&gt;Guacamole&lt;/h1&gt;
+&lt;p&gt;A favorite dip, spread, and garnish guacamole does the trick in a multitude of situations that require serious noms.  The trick is understanding the style and type that is called for each adventure in flavor.&lt;/p&gt;
 
-&lt;p&gt;* 
-pizza
-shoes
-chicken&lt;/p&gt;
+&lt;h2 id=&quot;loaded-with-pico-prints&quot;&gt;Loaded with Pico Prints&lt;/h2&gt;
+&lt;p&gt;The fully loaded guacamole is something special.  In order to do it right a pico de gallo should be made first as both an accompaniment and base for the green stuff.  Like a good gravy or au ju, the use of fresh stalk provides both balance and complexity to the flavor.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Pico de Gallo &lt;br /&gt;
+- Jalapeño (diced and seeded to preference) — 2 &lt;br /&gt;
+- Lime (juiced) — 1 &lt;br /&gt;
+- Tomato (diced) — 1.5 cup &lt;br /&gt;
+- Red Onion (diced) — 1 cup &lt;br /&gt;
+- Green Chili (diced) — .75 cup &lt;br /&gt;
+- Cilantro (rough chop) — 1 cup &lt;br /&gt;
+- Pineapple Juice — .5 cup &lt;br /&gt;
+- Cumin — 1 Tbsp &lt;br /&gt;
+- Sugar — 2 tsp &lt;br /&gt;
+- Garlic Salt — 1 tsp &lt;br /&gt;
+- S &amp;amp; P — taste&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Mix up all of the pico ingredients and let sit while preparing the guacamole.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Loaded Guacamole &lt;br /&gt;
+- Avocados — 2 &lt;br /&gt;
+- Lime (juiced) — 2 &lt;br /&gt;
+- Jalapeño (diced and seeded to preference) — 1 &lt;br /&gt;
+- Tomato (diced) — 1 cup &lt;br /&gt;
+- Red Onion (diced) — .75 cup &lt;br /&gt;
+- Cilantro (rough chop) — 1 cup &lt;br /&gt;
+- Pico Juice (strained from prepared pico) — .25 cup &lt;br /&gt;
+- Cumin — 1 Tbls &lt;br /&gt;
+- Green Tabasco (optional) — 1 Tbls &lt;br /&gt;
+- S &amp;amp; P — taste&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Gently crush the avocados with hands fold in the rest of the ingredients.&lt;/p&gt;
+
+&lt;h2 id=&quot;smooth-and-squeeze-bottle-friendly&quot;&gt;Smooth and Squeeze Bottle Friendly&lt;/h2&gt;
+&lt;p&gt;Often referred to as taco truck guac, a blended avocado and sour cream mixture fits great in a squeeze bottle and helps make a simple but impressive garnish in seconds. &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Taco Truck Guac &lt;br /&gt;
+- Avocados — 2 &lt;br /&gt;
+- Cilantro (Stems removed) — half a bundle &lt;br /&gt;
+- Sour Cream — 1.5 cup &lt;br /&gt;
+- Lime Juice — .5 cup &lt;br /&gt;
+- Honey — .25 cup &lt;br /&gt;
+- Salt — taste&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Put everything into a blender and let it spin.  Turn it off periodically and scrape the sides.  The consistency should be silky and easily drizzle out of a squeeze bottle. Add honey and lime juice as needed for flavor and texture.  The honey should lightly counter the sharpness of the lime juice and sour cream.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://bontgoy.github.io/fooding/&quot;&gt;BACK&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 15 Aug 2014 09:39:21 -0500</pubDate>
-        <link>http://yourdomain.com/fooding/test-2</link>
-        <guid isPermaLink="true">http://yourdomain.com/fooding/test-2</guid>
+        <link>http://yourdomain.com/fooding/guac</link>
+        <guid isPermaLink="true">http://yourdomain.com/fooding/guac</guid>
         
         
         <category>fooding</category>
