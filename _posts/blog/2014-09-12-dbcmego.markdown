@@ -1,0 +1,14 @@
+---
+layout: post
+title: "DBCme go"
+date: 2014-09-12 03:10:43
+categories: blog
+---
+
+Learning to code in 90 days.  Its like p90x for your brain.  Dev Bootcamp is a life changing experience and I realized that I have taken for granted how it can exist.  
+
+I used to be a cook.  More to the point, I was an aspiring chef who changed his trajectory after spending too much time thinking of how I could optimize kitchen labor programtically. That story is for another blog.  This story is about how I have come to realize that in today's junior developers can be trained and set on the road to success much like an aspiring chef.  The market has a demand for all kinds of developers and thus the floodgates have opened.  You can cut your teeth in a lot of ways; including finding groups of elite well practiced individuals that will mentor you in the ways that they have so painstakingly built their resumes.  Thanks to those who have put in the time to analyze the industry of software development, we now have access to accelerated learning.  If you so choose this path of wizards and trolls, you can follow the Yellow Brick Road when the Dark Woods don't seem like a worth-while journey.  Once you reach the Emerald City, pick up an adventurer starter kit and join a merry band questing vagabonds on their way to conjurist-con at Lonely Mountain.  It takes time and it definitely takes effort; but with a some work ethic and a bit of integrity the path to tech literacy is far more accessible than it once was.  To all those responsible for giving me a chance, for those who pulled an all-nighter after failing a CS mid-term, for all those who spent high school alone in a lab, for all those who said we can do this better, thank you.
+
+Ok, so intro..check, leading statement comparing learning to cook and learning to code..check, market generalizations followed by overindulgent nerd analogy..check, emotional closing statement..check.
+
+You know what!? I thought I was going to bring us back to the restaurant and then shut it down with a good old fashioned roll up your sleeves and work your ass off blanket statement.  But honestly,  I think we're good here.  Nice job gang, thanks for reading.
