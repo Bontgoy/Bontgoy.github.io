@@ -7,3 +7,14 @@ body {
 	margin-right: auto;
 	width: 6em;
 }
+
+.tjk {
+	margin-left: auto;
+	margin-right: auto;
+	width: 6em;
+}
+
+.birds {
+	position: absolute;
+	margin-left: -1em;
+}
