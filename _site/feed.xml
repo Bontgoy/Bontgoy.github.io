@@ -2,125 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ty Keating</title>
-    <description>ideas are dry leaves waiting for a creative spark</description>
+    <description>Live Well and Treat Others Well</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 13 Sep 2014 16:49:28 -0500</pubDate>
-    <lastBuildDate>Sat, 13 Sep 2014 16:49:28 -0500</lastBuildDate>
+    <pubDate>Tue, 21 Oct 2014 13:42:14 -0500</pubDate>
+    <lastBuildDate>Tue, 21 Oct 2014 13:42:14 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
-    
-      <item>
-        <title>DBCme go</title>
-        <description>&lt;p&gt;Learning to code in 90 days.  Its like p90x for your brain.  Dev Bootcamp is a life changing experience and I realized that I have taken for granted how it can exist.  &lt;/p&gt;
-
-&lt;p&gt;I used to be a cook.  More to the point, I was an aspiring chef who changed his trajectory after spending too much time thinking of how I could optimize kitchen labor programtically. That story is for another blog.  This story is about how I have come to realize that in today’s junior developers can be trained and set on the road to success much like an aspiring chef.  The market has a demand for all kinds of developers and thus the floodgates have opened.  You can cut your teeth in a lot of ways; including finding groups of elite well practiced individuals that will mentor you in the ways that they have so painstakingly built their resumes.  Thanks to those who have put in the time to analyze the industry of software development, we now have access to accelerated learning.  If you so choose this path of wizards and trolls, you can follow the Yellow Brick Road when the Dark Woods don’t seem like a worth-while journey.  Once you reach the Emerald City, pick up an adventurer starter kit and join a merry band questing vagabonds on their way to conjurist-con at Lonely Mountain.  It takes time and it definitely takes effort; but with a some work ethic and a bit of integrity the path to tech literacy is far more accessible than it once was.  To all those responsible for giving me a chance, for those who pulled an all-nighter after failing a CS mid-term, for all those who spent high school alone in a lab, for all those who said we can do this better, thank you.&lt;/p&gt;
-
-&lt;p&gt;Ok, so intro..check, leading statement comparing learning to cook and learning to code..check, market generalizations followed by overindulgent nerd analogy..check, emotional closing statement..check.&lt;/p&gt;
-
-&lt;p&gt;You know what!? I thought I was going to bring us back to the restaurant and then shut it down with a good old fashioned roll up your sleeves and work your ass off blanket statement.  But honestly,  I think we’re good here.  Nice job gang, thanks for reading.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 11 Sep 2014 22:10:43 -0500</pubDate>
-        <link>http://yourdomain.com/blog/dbcmego</link>
-        <guid isPermaLink="true">http://yourdomain.com/blog/dbcmego</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>An honest intro and outlook</title>
-        <description>&lt;link rel=&quot;stylesheet&quot; href=&quot;/css/my.css&quot; /&gt;
-
-&lt;script src=&quot;http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js&quot;&gt;&lt;/script&gt;
-
-&lt;script type=&quot;text/javascript&quot; src=&quot;/js/my.js&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;I might not a have a lot to say right away but I am trying.  When I thought about starting a blog, I was not fully prepared for the mental stamina it would take to create thought from scratch and put it to the page.  I tend be a veering individual when it comes using my spare time to focus.  However, these days, spare time is a different concept to me.  Writing conscious thought down on a site I created should be comforting.  &lt;/p&gt;
-
-&lt;p&gt;I&#39;m trying to develope a routine; a routine of learning and reflection.  I have always been a mover.  I have trouble sitting still.  I am desperate to focus and I think I can do it if I try.  This is my first serious post and I will be leaving it up.  I pledge to write something daily until this routine becomes a habit.  I am also going to get much better at engineering software.  Everyday I will be doing my best to become better at something.&lt;/p&gt;
-
-&lt;p&gt;Today I&#39;ll working on a bit of &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; framework and will be revisiting some old exercises from &lt;a href=&quot;http://www.devbootcamp.com&quot;&gt;DBC&lt;/a&gt;. If I have time tonight, I will post again to reflect on what I have learned...&lt;/p&gt;
-
-&lt;p&gt;Everything does not have to be directly profound if it is honest.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://bontgoy.github.io/blog/&quot;&gt;BACK&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 20 Aug 2014 09:46:52 -0500</pubDate>
-        <link>http://yourdomain.com/blog/hello-jekyll-world</link>
-        <guid isPermaLink="true">http://yourdomain.com/blog/hello-jekyll-world</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Guacamole Guide</title>
-        <description>&lt;h1 id=&quot;guacamole&quot;&gt;Guacamole&lt;/h1&gt;
-&lt;p&gt;A favorite dip, spread, and garnish guacamole does the trick in a multitude of situations that require serious noms.  The trick is understanding the style and type that is called for each adventure in flavor.&lt;/p&gt;
-
-&lt;h2 id=&quot;loaded-with-pico-prints&quot;&gt;Loaded with Pico Prints&lt;/h2&gt;
-&lt;p&gt;The fully loaded guacamole is something special.  In order to do it right a pico de gallo should be made first as both an accompaniment and base for the green stuff.  Like a good gravy or au ju, the use of fresh stalk provides both balance and complexity to the flavor.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Pico de Gallo &lt;br /&gt;
-- Jalapeño (diced and seeded to preference) — 2 &lt;br /&gt;
-- Lime (juiced) — 1 &lt;br /&gt;
-- Tomato (diced) — 1.5 cup &lt;br /&gt;
-- Red Onion (diced) — 1 cup &lt;br /&gt;
-- Green Chili (diced) — .75 cup &lt;br /&gt;
-- Cilantro (rough chop) — 1 cup &lt;br /&gt;
-- Pineapple Juice — .5 cup &lt;br /&gt;
-- Cumin — 1 Tbsp &lt;br /&gt;
-- Sugar — 2 tsp &lt;br /&gt;
-- Garlic Salt — 1 tsp &lt;br /&gt;
-- S &amp;amp; P — taste&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Mix up all of the pico ingredients and let sit while preparing the guacamole.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Loaded Guacamole &lt;br /&gt;
-- Avocados — 2 &lt;br /&gt;
-- Lime (juiced) — 2 &lt;br /&gt;
-- Jalapeño (diced and seeded to preference) — 1 &lt;br /&gt;
-- Tomato (diced) — 1 cup &lt;br /&gt;
-- Red Onion (diced) — .75 cup &lt;br /&gt;
-- Cilantro (rough chop) — 1 cup &lt;br /&gt;
-- Pico Juice (strained from prepared pico) — .25 cup &lt;br /&gt;
-- Cumin — 1 Tbls &lt;br /&gt;
-- Green Tabasco (optional) — 1 Tbls &lt;br /&gt;
-- S &amp;amp; P — taste&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Gently crush the avocados with hands fold in the rest of the ingredients.&lt;/p&gt;
-
-&lt;h2 id=&quot;smooth-and-squeeze-bottle-friendly&quot;&gt;Smooth and Squeeze Bottle Friendly&lt;/h2&gt;
-&lt;p&gt;Often referred to as taco truck guac, a blended avocado and sour cream mixture fits great in a squeeze bottle and helps make a simple but impressive garnish in seconds. &lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Taco Truck Guac &lt;br /&gt;
-- Avocados — 2 &lt;br /&gt;
-- Cilantro (Stems removed) — half a bundle &lt;br /&gt;
-- Sour Cream — 1.5 cup &lt;br /&gt;
-- Lime Juice — .5 cup &lt;br /&gt;
-- Honey — .25 cup &lt;br /&gt;
-- Salt — taste&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Put everything into a blender and let it spin.  Turn it off periodically and scrape the sides.  The consistency should be silky and easily drizzle out of a squeeze bottle. Add honey and lime juice as needed for flavor and texture.  The honey should lightly counter the sharpness of the lime juice and sour cream.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://bontgoy.github.io/fooding/&quot;&gt;BACK&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 15 Aug 2014 09:39:21 -0500</pubDate>
-        <link>http://yourdomain.com/fooding/guac</link>
-        <guid isPermaLink="true">http://yourdomain.com/fooding/guac</guid>
-        
-        
-        <category>fooding</category>
-        
-      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>

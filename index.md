@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About Me
-permalink: /about/
 ---
-
+<link rel="stylesheet" href="/css/my.css">
 <link rel="stylesheet" href="/css/my.css">
 
 Just another human trying muddle out some truth.  I enjoy understanding, building, and asking why.  I was born and raised in Montana and recently uprooted myself.  Now, I am spending my days learning to work with software and trying building lasting relationships with people and communities.  
