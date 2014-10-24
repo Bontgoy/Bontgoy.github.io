@@ -26,3 +26,6 @@ Why this should be thought about
 * Currently, network providers are trying to impose tiered service offerings for content.  This means a web-based company could pay additional fees to make their content show up faster and in more searches.  
 
 * There is no indication that providing faster speeds and tiered services, for content, is a matter of resource management.  This means that companies paying for a faster service will actually be paying not to be slowed down.
+
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://bontgoy.github.io/open-internet/" data-text="A brief explanation of Net Neutrality" data-via="Bontgoy">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>

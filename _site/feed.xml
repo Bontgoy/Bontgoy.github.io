@@ -3,10 +3,10 @@
   <channel>
     <title>Ty Keating</title>
     <description>Live Well and Treat Others Well</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 21 Oct 2014 16:53:48 -0500</pubDate>
-    <lastBuildDate>Tue, 21 Oct 2014 16:53:48 -0500</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 23 Oct 2014 22:57:39 -0500</pubDate>
+    <lastBuildDate>Thu, 23 Oct 2014 22:57:39 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -26,8 +26,8 @@ To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; direc
 
 </description>
         <pubDate>Mon, 11 Aug 2014 09:44:21 -0500</pubDate>
-        <link>http://yourdomain.com/jekyll/update/welcome-to-jekyll</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/welcome-to-jekyll</guid>
+        <link>/jekyll/update/welcome-to-jekyll</link>
+        <guid isPermaLink="true">/jekyll/update/welcome-to-jekyll</guid>
         
         
         <category>jekyll</category>
