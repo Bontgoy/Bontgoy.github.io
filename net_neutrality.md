@@ -11,7 +11,7 @@ What is Net Neutrality?
 
 Net Neutrality is the term coined for the debate between public and private sector policy players in regards to the how broadband providers are allowed to control and distribute our nation's internet connections. More specifically, the government organization, the FCC, is trying to decide what type of policy they should have in regards to these distributions.  As of now, the government has no Constitutional permissions to make any choices in regards to broadband commercial distributions.
 
-If the FCC decides to keep the hands off policy
+If the FCC decides to keep the hands off policy...
 ======
 
 Without government regulation network providers can decide how they choose the pricing for network distributions.  More importantly providers can regulate the speed of connections for both the user and the content available on the web.  
