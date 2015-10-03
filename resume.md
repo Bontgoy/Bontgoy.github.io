@@ -94,7 +94,7 @@ Another great organization providing women and eager beginners a safe place to d
 	</ul>
 </ul>
 
-As an undergrad in Policy Analysis I put the majority of my time into research projects involving the Net Neutrality landscape. I met some organizers at a drink up downtown Chicago and jumped at the chance to build a site to help build awareness of this paramount issue involving our freedom and usage of the resource that keeps us connected and secures our livelihood.
+As an undergrad in Policy Analysis I put the majority of my time into research projects involving the Net Neutrality landscape. I met some organizers at a drink up downtown Chicago and jumped at the chance to build a site to help provide awareness of this paramount issue involving our freedom and usage of the resource that keeps us connected and secures our livelihood.
 
 The project is built on a rails framework holding a single model of constituents and their statements. The styling is custom out of the box SASS.  I tied my own bootlaces.
 
