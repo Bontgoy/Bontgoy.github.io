@@ -28,7 +28,7 @@ The diversity of my project experience includes:
 - Custom Report Building
 - Metrics Management
 
-During my time at E2 I have succeed in working with a private programming language with little documentation. This required a lot of late nights, constant research, and communicating with our senior devs to grow my knowledge base. I am now trusted and able to work on my own and personally manage an account for a fortune 200 client. My most recent success was writing a data integration script that played a large role winning our company a 500 million dollar 5 year contract.
+During my time at E2 I have succeed in working with a private programming language with little documentation. This required a lot of late nights, constant research, and communicating with our senior devs to grow my knowledge base. I am now trusted and able to work on my own and personally manage an account for a fortune 200 client. My most recent success was writing a data integration script that played a large role winning our company a 5 million dollar 5 year contract.
 
 ---------
 
