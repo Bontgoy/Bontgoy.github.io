@@ -126,6 +126,6 @@ A Montana based organization that provides high risk youth with an alternative c
 	</ul>
 </ul>
 
-Before going deciding to become I software developer I was saving to go to culinary school. This was the last restaurant I worked at and by far the most rewarding. I was involved in the opening of the business and received a wide array of fine arts training in a French kitchen.
+Before deciding to become I software developer I was saving to go to culinary school. This was the last restaurant I worked at and by far the most rewarding. I was involved in the opening of the business and received a wide array of fine arts training in a French kitchen.
 
-This is relevant because it was what sent me down the path of software development. I was working 80 hour weeks immersing myself in this craft. All the while I would day dream about how I would grow to improve the restaurant I would eventually own and operate. My obsessive thinking lead me to the restaurant point of sales system(POS) and how I would make a better. As time past I found myself doing more dev work and less home cooking. That is where it all began!
+This is relevant because it was what sent me down the path of software development. I was working 80 hour weeks immersing myself in this craft. All the while I would day dream about how I would grow to improve the restaurant I would eventually own and operate. My obsessive thinking lead me to the restaurant point of sales system(POS) and how I would make a better. As time past, I found myself doing more dev work and less home cooking. That is where it all began!
