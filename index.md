@@ -4,8 +4,6 @@ layout: page
 <link rel="stylesheet" href="/css/my.css">
 <link rel="stylesheet" href="/css/my.css">
 
-test
-
 Just another human trying to muddle out some truth.  I enjoy understanding, building, and asking why.  I was born and raised in Montana and recently uprooted myself.  Now, I am spending my days learning to work with software and trying building lasting relationships with people and communities.  
 
 My education in building software applications began when I had some thoughts on how to improve labor management within a kitchen.  I was training to become an assistant chef and know the service industry world inside and out.  It was not long until I decided to make the shift into pursuing development as a full-time vocation.
