@@ -1,7 +1,8 @@
 ---
-layout: page
-title: A letter about Dev Bootcamp
-permalink: /letter-to-zed/
+layout: post
+title:  Letter to Zed
+date:   2014-09-15 21:05:45
+categories: blog
 ---
 ***
 This letter was written to Zed A Shaw in response to his post [The Coming Code Bootcamp Destruction](http://zedshaw.com/2014/10/19/the-coming-code-bootcamp-destruction/).  I fixed some grammar by adding a few words like "that" and "is" that I left out in the throws of passion for improved readabilty.

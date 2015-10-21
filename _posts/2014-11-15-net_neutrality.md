@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Net Neutrality Policy Landscape
-permalink: /open-internet/
+layout: post
+title:  Net Neutrality Policy Landscape
+date:   2014-11-15 14:44:21
+categories: blog
 ---
 
 This is an attempt at delivering a concise explanation to a very complicated policy landscape.  I have written on and studied Net Neutrality, on a policy level, since 2010 and will happily answer any questions with as little bias as possible.  Regardless of alignment, Net Neutrality is very important and complex.  The nature of both the policy and how it is being presented publicly has a lot to do with why such an important issue is largely misunderstood or overlooked.  Please email (via footer links) if you would like me to clarify or provide more in-depth information.  
