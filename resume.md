@@ -18,7 +18,7 @@ permalink: /resume/
 	</ul>
 </ul>
 
-I was invited back to work at my favorite alma mater! I currently lead large groups of off-site boots through the beginning of their journey into understanding web application developement. At DBC we work to cultivate the whole-self. I provie mentorship and guidance in introductory scripting work, empathy training, and personal accountablity. I also do some hacking on in-house applications.
+I was invited back to work at my favorite alma mater! I currently lead large groups of off-site boots through the beginning of their journey into understanding web application developement. At DBC we work to cultivate the whole-self. I provide mentorship and guidance in introductory scripting work, empathy training, and personal accountablity. I also do some hacking on in-house applications.
 
 ---------
 
