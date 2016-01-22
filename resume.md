@@ -11,10 +11,22 @@ permalink: /resume/
 ---------
 
 <ul>
+	<li style="font-size: 16px; font-weight: bold; list-style-type: none;">Dev Bootcamp</li>
+	<ul style="list-style-type: none;">
+		<li style="font-size: 12px;">Phase 0 Cohort Lead</li>
+		<li style="font-size: 12px;">January 2016 - Present</li>
+	</ul>
+</ul>
+
+I was invited back to work at my favorite alma mater! I currently lead large groups of off-site boots through the beginning of their journey into understanding web application developement. At DBC we work to cultivate the whole-self. I provie mentorship and guidance in introductory scripting work, empathy training, and personal accountablity. I also do some hacking on in-house applications.
+
+---------
+
+<ul>
 	<li style="font-size: 16px; font-weight: bold; list-style-type: none;">E2 ManageTech</li>
 	<ul style="list-style-type: none;">
 		<li style="font-size: 12px;">Technical Analyst</li>
-		<li style="font-size: 12px;">January 2015 - Present</li>
+		<li style="font-size: 12px;">January 2015 - December 2015</li>
 	</ul>
 </ul>
 
